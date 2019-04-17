@@ -1,0 +1,24 @@
+body {
+  padding-top: 56px;
+}
+
+.nav-background{
+  background: #000;
+}
+
+.logo{
+  width: 36px;
+}
+
+.logo-text{
+  color: #fff;
+}
+
+.btn-mit{
+  background: #dd1123;
+  border-color: #dd1123;
+}
+
+.column-block{
+  display: inline-block;
+}
